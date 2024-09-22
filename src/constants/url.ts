@@ -1,0 +1,1 @@
+export const API_CHARACTERS_URL = 'https://hp-api.onrender.com/api/characters'
